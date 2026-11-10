@@ -9,3 +9,4 @@ The project contains following files:
   4. Presentation (in PPTX format)
   5. Presentation (in PDF format)
   6. final_dashboard.png (Screenshot of the active dashboard)
+<img width="1592" height="739" alt="Dashboard_2" src="https://github.com/user-attachments/assets/20fb852a-7069-43c8-9e65-52d22d750635" />
